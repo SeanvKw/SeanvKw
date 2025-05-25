@@ -5,7 +5,7 @@
 <img src="https://camo.githubusercontent.com/daa279ca78be42b310b9d7d7ea35f996418037e6fc81a54fc91ce6732e7f2e9e/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426746578743d48656c6c6f21266865696768743d3130302673656374696f6e3d686561646572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;text=Hello!&amp;height=100&amp;section=header" style="max-width: 100%;">
 </p>
 <h1 align="center" dir="auto">
-  Let's Connect and have a Chat!💬
+  Feel Free to Reach Out! 💬
 </h1>
   <p align="center" dir="auto">
     <a href="" rel="nofollow">
@@ -23,6 +23,7 @@
   <h2 class="heading-element" dir="auto"> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
   
 ```yaml
+
 name: Adrian Rączka
 located_in: Wrocław, Poland
 
@@ -42,12 +43,12 @@ specializations:
 
 education: 
   {
-    "Technikum nr 1 W Zespole Szkół nr 1 we Wrocławiu": IT Technician and Junior Web Developer
-    "Wrocławska Akademia Biznesu": IT with specialization in Automation and Artificial Intelligence
+    "Technical Secondary School No. 1 in Wrocław": Computer Science (2020-2025)
+    "Student at WAB University in Wrocław": CS with specialization in Automation and AI (Present)
     "Self-Taught Programming Languages (at Intermediate level)": Python, JavaScript , PHP, SQL
   }
 
-intrested_in: 
+interested_in: 
   {
     "Machine Learning"
     "Deep Machine Learning"
@@ -55,7 +56,7 @@ intrested_in:
   }
 
 currently_learning: ["Python" , "There will be more!!!"]
-goals_2025: ["Getting my first certificate in Python course on Udemy" , "Setting up my portfolio","Creating about 10 projects with languages I learned"]
+goals_2025: ["Getting my first certificate in Python course on Udemy" , "Setting up my first portfolio"]
 hobbies: ["Gaming","Cars","Volleyball"]
 
 ```
