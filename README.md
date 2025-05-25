@@ -25,10 +25,12 @@
 ```yaml
 name: Adrian Rączka
 located_in: Wrocław, Poland
-current_job_or_internship = "Null"
 
+current_job_or_internship = "Null"
 if current_job_or_internship == "Null":
   print("Looking for a job or internship")
+else:
+  print("Sorry I'm Taken :D")
 
 specializations:
   [
