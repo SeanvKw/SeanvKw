@@ -34,8 +34,8 @@ specializations:
   [
     "Web Development":
     "AI Software":   
-    "Machine Learning"
-    "Deep Machine Learning"
+    "Machine Learning":
+    "Deep Machine Learning":
   ]
 education: 
   {
