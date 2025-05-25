@@ -25,23 +25,30 @@
 ```yaml
 name: Adrian Rączka
 located_in: Wrocław, Poland
-current_job_or_internship: "Null"
+current_job_or_internship = "Null"
 
 if current_job_or_internship == "Null":
   print("Looking for a job or internship")
 
+specializations:
+  [
+    "Web Development":
+    "AI Software":   
+    "Machine Learning"
+    "Deep Machine Learning"
+  ]
 education: 
   {
-    "Technikum nr 1 W Zespole Szkół nr 1 we Wrocławiu": IT Technician
-    "Wrocławska Akademia Biznesu": IT with specialization in Automation and AI
+    "Technikum nr 1 W Zespole Szkół nr 1 we Wrocławiu": IT Technician and Junior Web Developer
+    "Wrocławska Akademia Biznesu": IT with specialization in Automation and Artificial Intelligence
     "Self-Taught Programming Languages (at Intermediate level)": Python, JavaScript , PHP, SQL
   }
 
 intrested_in: 
   {
     "Machine Learning"
-    "AI Software Engineer"
     "Deep Machine Learning"
+    "AI Software"
   }
 
 currently_learning: ["Python" , "There will be more!!!"]
