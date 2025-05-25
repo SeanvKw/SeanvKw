@@ -39,6 +39,7 @@ specializations:
     "Machine Learning":
     "Deep Machine Learning":
   ]
+
 education: 
   {
     "Technikum nr 1 W Zespole Szkół nr 1 we Wrocławiu": IT Technician and Junior Web Developer
