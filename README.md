@@ -35,7 +35,6 @@ else:
 
 specializations:
   [
-    "Web Development"
     "AI Software"
     "Machine Learning"
     "Deep Machine Learning"
@@ -52,7 +51,7 @@ interested_in:
   {
     "Machine Learning"
     "Deep Machine Learning"
-    "AI Software"
+    "Large Language Models"
   }
 
 currently_learning: ["Python" , "There will be more!!!"]
