@@ -33,28 +33,28 @@ if current_job_or_internship == "Null":
 else:
   print("Sorry I'm Taken :D")
 
-specializations:
-  [
+specializations [
     "AI Software"
     "Machine Learning"
     "Deep Machine Learning"
   ]
 
-education: 
-  {
+education {
     "Technical Secondary School No. 1 in Wrocław": Computer Science (2020-2025)
     "Student at WAB University in Wrocław": CS with specialization in Automation and AI (Present)
     "Self-Taught Programming Languages (at Intermediate level)": Python, JavaScript , PHP, SQL
   }
 
-interested_in: 
-  {
+interested_in {
     "Machine Learning"
     "Deep Machine Learning"
     "Large Language Models"
   }
 
-currently_learning: ["Python" , "There will be more!!!"]
+currently_learning {
+  Programming Languages: ["Python", "R"]
+  Frameworks/Libraries: ["PyTorch", "TensorFlow"]
+}
 goals_2025: ["Getting my first certificate in Python course on Udemy" , "Setting up my first portfolio"]
 hobbies: ["Gaming","Cars","Volleyball"]
 
