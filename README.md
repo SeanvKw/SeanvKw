@@ -44,7 +44,9 @@ education {
     "Student at WAB University in Wrocław": CS with specialization in Automation and AI (Present)
     "Self-Taught Programming Languages (at Intermediate level)": Python, JavaScript , PHP, SQL
   }
-
+certiciates {
+    ""
+  }
 interested_in {
     "Machine Learning"
     "Deep Machine Learning"
